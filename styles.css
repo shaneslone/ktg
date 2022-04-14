@@ -1,0 +1,22 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table,
+tr {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+}
+
+.user {
+  cursor: pointer;
+}
+
+.post {
+  border: 1px solid black;
+}
